@@ -1,0 +1,3 @@
+[submodule "test-blogposts"]
+	path = test-blogposts
+	url = https://github.com/gitdagray/test-blogposts
